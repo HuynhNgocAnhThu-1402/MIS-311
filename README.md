@@ -29,9 +29,10 @@ All columns were formatted with appropriate data types to ensure data consistenc
 **2.2. Checked for missing values**
 **Step 1:** Select all data → go to Home → Find & Select → Go To Special → Blanks.
 Excel highlights all blank cells.
+![Bắc cực quang - hiện tượng thiên nhiên kì vĩ nhất thế giới](https://github.com/user-attachments/assets/4280a628-0059-4306-9b8f-8847f47bad1c)
 
-_**Figure 1: Missing values (row 20 - column: quantity)
-**_
+_**Figure 1: Missing values (row 20 - column: quantity)**_
+
 
 _**Figure 2: Missing values (row 30, 31, 32, 35 - column customer_type & product_category)**_
 
