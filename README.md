@@ -44,6 +44,7 @@
 **2.2. Checked for missing values**
 
 **Step 1:** Select all data → go to Home → Find & Select → Go To Special → Blanks.
+
 Excel highlights all blank cells.
 
 <img width="512" height="269" alt="F1" src="https://github.com/user-attachments/assets/73e8d4dc-a221-4fe7-8613-8450032cbd5d" />
@@ -132,7 +133,7 @@ After understanding the overall distribution, the next step focuses on identifyi
 
 _**Figure 9: Total Sales Revenue by Branch**_
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Branch A generated nearly double the revenue of Branch B (USD 21,427 vs. USD 8,935). This suggests stronger sales performance, possibly due to better location, a larger customer base, or more effective marketing. The company should consider expanding operations or investing more in Branch A’s area to maximize overall business growth.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Branch A generated about 2.4 times more revenue than Branch B (USD 21,427 vs. USD 8,935). This suggests stronger sales performance, possibly due to better location, a larger customer base, or more effective marketing. The company should consider expanding operations or investing more in Branch A’s area to maximize overall business growth.
 
 **3.2. Insight 2: Average Spending by Customer Type**
 
