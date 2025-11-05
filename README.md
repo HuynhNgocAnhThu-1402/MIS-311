@@ -125,7 +125,7 @@ _**Figure 8: Distribution of quantity per transaction**_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The histogram above shows how many products customers usually buy in one transaction. Most customers purchase between 8 and 11 items, which is the largest group with about 55 transactions. Buying 1–4 items and 15–18 items is also quite common (around 50–55 transactions), while only a few customers buy more than 18 items (about 30 transactions). This means most customers make medium-sized purchases instead of very small or very large ones. Overall, the chart shows that the number of products per purchase is fairly balanced, so customer buying behavior is quite consistent.
 
-After understanding the overall distribution, the next step focuses on identifying key business insights
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After understanding the overall distribution, the next step focuses on identifying key business insights
 
 **3.1. Insight 1: Total Sales Revenue by Branch**
 
