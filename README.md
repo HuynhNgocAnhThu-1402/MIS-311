@@ -29,7 +29,8 @@ All columns were formatted with appropriate data types to ensure data consistenc
 **2.2. Checked for missing values**
 **Step 1:** Select all data → go to Home → Find & Select → Go To Special → Blanks.
 Excel highlights all blank cells.
-<img width="512" height="269" alt="F1" src="https://github.com/user-attachments/assets/fae4b89a-df4a-438e-90fc-dd22ebf8b266" />
+<img width="805" height="300" alt="F1" src="https://github.com/user-attachments/assets/fae4b89a-df4a-438e-90fc-dd22ebf8b266" />
+![Uploading image.png…]()
 
 _**Figure 1: Missing values (row 20 - column: quantity)**_
 
